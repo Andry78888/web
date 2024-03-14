@@ -1,0 +1,27 @@
+th, td{
+    color:#ffffff;
+}
+ h1, h2, h4{
+     color: #ffffff;
+ }
+ div{
+     color: yellow;
+ }
+ 
+ div#rojo{
+     color: red;
+ }
+
+ .button {  
+    background: #ffffff;
+    color: #ff152a;
+     box-shadow: 0 0 20px;
+     display: inline-block;
+     font-size:1.25em;
+     margin: 20px;
+     padding: 10px 0px;
+     text-aling: center;
+     width: 200px;
+     text-decoration: none;
+     
+     }
